@@ -4,25 +4,3 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=rjlama07&theme=highcontrast)](https://git.io/streak-stats)
 </div>
 
-<h1 align="center">Hi 👋, I'm Ritesh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rjlama07&label=Profile%20views&color=0e75b6&style=flat" alt="rjlama07" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rjlama07" alt="rjlama07" /></a> </p>
-
-- 📫 How to reach me **riteshlama5@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/rj lama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rj lama" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rjlama07&show_icons=true&locale=en&layout=compact" alt="rjlama07" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rjlama07&show_icons=true&locale=en" alt="rjlama07" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rjlama07&" alt="rjlama07" /></p>
