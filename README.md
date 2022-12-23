@@ -6,6 +6,9 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=rjlama07&theme=highcontrast)](https://git.io/streak-stats)
 </div>
 - 📫 How to reach me **riteshlama5@gmail.com**
+- <p align="center">
+ <img width="100%" src="https://github.com/rjlama07/rjlama07/blob/output/github-contribution-grid-snake.gif" align="center" alt="Ritesh's Contributions" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
