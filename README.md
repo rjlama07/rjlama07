@@ -7,8 +7,9 @@
 </div>
 - 📫 How to reach me **riteshlama5@gmail.com**
 
+![snake gif](https://github.com/rjlama07/rjlama07/blob/output/github-contribution-grid-snake.gif)
 
-
+- 📫 How to reach me **riteshlama5@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/rj lama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rj lama" height="30" width="40" /></a>
