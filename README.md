@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Ritesh</h1>
+<h1 align="center">Hi 👋, I'm RiteshLama</h1>
 <div align="center">
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rjlama07&show_icons=true&count_private=true&include_all_commits=true&theme=swift)
