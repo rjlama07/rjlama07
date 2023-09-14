@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm RiteshLama</h1>
+<h1 align="center">Hi 👋, I'm Ritesh Jung Lama</h1>
 <div align="center">
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rjlama07&show_icons=true&count_private=true&include_all_commits=true&theme=swift)
@@ -7,7 +7,7 @@
 </div>
 
 
-![snake gif](https://github.com/rjlama07/rjlama07/blob/output/github-contribution-grid-snake.gif)
+
 
 - 📫 How to reach me **riteshlama5@gmail.com**
 <h3 align="left">Connect with me:</h3>
